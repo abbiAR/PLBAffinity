@@ -31,7 +31,7 @@ not_coreset.R - code for running cross validation on CASF2019
 
 
 
-2. CHEMBL experiments:
+2. ChEMBL experiments:
 
 2.1 DATA
 
